@@ -13,7 +13,10 @@ müller
 jansen
 
 would be a combination to "combos.txt":
-markus.müller@domain.com
-mark.müller@domain.com
-clara.müller@domain.com
+
+markus.mueller@domain.com
+mark.mueller@domain.com
+clara.mueller@domain.com
 clara.jansen@domain.com
+
+![image](https://user-images.githubusercontent.com/102237861/211031017-10e901a2-1b58-43ca-977d-94901714c6ad.png)
